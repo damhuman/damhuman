@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @damhuman
-- 👀 I’m interested in python and crypto
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me -  Telegram @damhuman
+- 👀 I’m Software engineer from Kyiv
+- kozak.eth
 
